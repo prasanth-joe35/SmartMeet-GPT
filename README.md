@@ -20,6 +20,7 @@ SmartMeet GPT is an AI-powered productivity tool that transforms unstructured me
 
 ## 📸 Demo Screenshot
 
+![SmartMeetGPT-Demo](https://github.com/user-attachments/assets/07bdaf28-0681-42d6-abed-610657bfdf76)
 
 ---
 
