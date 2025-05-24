@@ -1,0 +1,19 @@
+SmartMeet GPT – Prompt Collection
+------------------------------------
+
+ Prompt 1: Meeting Notes to Structured Summary
+------------------------------------------------
+You are an expert meeting analyst assistant.
+
+Analyze the following meeting notes or transcript. Then return:
+
+1. Summary of discussion  
+2. Key decisions made  
+3. Action items (with deadlines and owners)  
+4. Questions raised or unresolved  
+5. Tone of meeting (optional)
+
+Meeting Notes:
+{meeting_notes_here}
+
+
